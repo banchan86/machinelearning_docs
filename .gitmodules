@@ -1,3 +1,7 @@
 [submodule "examples"]
 	path = docs/examples
 	url = https://github.com/bonsai-rx/machinelearning-examples.git
+[submodule "docs/bonsai"]
+	path = docs/bonsai
+	url = https://github.com/banchan86/docfx-tools_dev
+	branch = api-template
