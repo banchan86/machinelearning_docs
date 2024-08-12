@@ -71,6 +71,7 @@
       "default",
       "modern",
       "bonsai/template",
+      "bonsai/template/api",
       "template"
     ],
     "globalMetadata": {
