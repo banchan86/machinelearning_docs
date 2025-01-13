@@ -71,7 +71,6 @@
       "default",
       "modern",
       "bonsai/template",
-      "bonsai/template/apitoc",
       "template"
     ],
     "globalMetadata": {
