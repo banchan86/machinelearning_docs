@@ -11,8 +11,7 @@
       ],
       "dest": "api",
       "filter": "filter.yml",
-      "enumSortOrder": "declaringOrder",
-      "memberLayout": "separatePages"
+      "enumSortOrder": "declaringOrder"
     }
   ],
   "build": {
@@ -73,7 +72,8 @@
       "default",
       "modern",
       "bonsai/template",
-      "template"
+      "template",
+      "bonsai/template/apitoc"
     ],
     "globalMetadata": {
       "_appName": "Bonsai - ML",
