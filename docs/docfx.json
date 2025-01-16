@@ -10,7 +10,8 @@
         }
       ],
       "dest": "api",
-      "filter": "filter.yml"
+      "filter": "filter.yml",
+      "memberLayout": "separatePages"
     }
   ],
   "build": {
